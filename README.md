@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Virat210/Leethub/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Virat210/Leethub/tree/master/0217-contains-duplicate) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
+| [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virat210/Leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Virat210/Leethub/tree/master/3525-find-x-value-of-array-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
