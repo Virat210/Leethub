@@ -13,7 +13,7 @@ class Solution{
         for(int x:map1.keySet()){
             if(map2.containsKey(x)){
                 int freq=Math.min(map1.get(x),map2.get(x));
-                for(int i=0;i<+freq;i++){
+                for(int i=0;i<freq;i++){
                     list.add(x);
                 }
             }
