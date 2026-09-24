@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virat210/Leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Virat210/Leethub/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Virat210/Leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Virat210/Leethub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virat210/Leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Virat210/Leethub/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Virat210/Leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
 | ------- |
