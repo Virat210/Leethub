@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Virat210/Leethub/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Virat210/Leethub/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Virat210/Leethub/tree/master/0521-longest-uncommon-subsequence-i) |
+| [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Virat210/Leethub/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -123,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
