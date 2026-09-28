@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Virat210/Leethub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Virat210/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Virat210/Leethub/tree/master/0018-4sum) |
+| [0134-gas-station](https://github.com/Virat210/Leethub/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Virat210/Leethub/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Virat210/Leethub/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Virat210/Leethub/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Virat210/Leethub/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
