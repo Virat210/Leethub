@@ -1,10 +1,10 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         ArrayList<int[]> al = new ArrayList<>();
-        int n = intervals.length;
-        int j = n;
-        int start = newInterval[0];
-        int end = newInterval[1];
+        int n=intervals.length;
+        int j=n;
+        int start=newInterval[0];
+        int end=newInterval[1];
 
         for(int i=0;i<n;i++){
             if(newInterval[0]>=intervals[i][0] &&
