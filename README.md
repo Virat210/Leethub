@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Virat210/Leethub/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
+| [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Virat210/Leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Virat210/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Virat210/Leethub/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
 ## Backtracking
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Virat210/Leethub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virat210/Leethub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virat210/Leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
