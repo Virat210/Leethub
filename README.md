@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Virat210/Leethub/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Virat210/Leethub/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Virat210/Leethub/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Virat210/Leethub/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Virat210/Leethub/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Virat210/Leethub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Virat210/Leethub/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virat210/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Virat210/Leethub/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Virat210/Leethub/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Virat210/Leethub/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Virat210/Leethub/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Virat210/Leethub/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Virat210/Leethub/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
