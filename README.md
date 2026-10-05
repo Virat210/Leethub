@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Virat210/Leethub/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Virat210/Leethub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/Virat210/Leethub/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Virat210/Leethub/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Virat210/Leethub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Virat210/Leethub/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Virat210/Leethub/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Virat210/Leethub/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Virat210/Leethub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Virat210/Leethub/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Virat210/Leethub/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
