@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Virat210/Leethub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Virat210/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Virat210/Leethub/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Virat210/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Virat210/Leethub/tree/master/0057-insert-interval) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virat210/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Virat210/Leethub/tree/master/0134-gas-station) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Virat210/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Virat210/Leethub/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Virat210/Leethub/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Virat210/Leethub/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Virat210/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Virat210/Leethub/tree/master/0242-valid-anagram) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Virat210/Leethub/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
