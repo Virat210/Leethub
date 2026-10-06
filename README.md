@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
 | [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Virat210/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Virat210/Leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Virat210/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Virat210/Leethub/tree/master/0187-repeated-dna-sequences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Virat210/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Virat210/Leethub/tree/master/0525-contiguous-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Virat210/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
