@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Virat210/Leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virat210/Leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Virat210/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Virat210/Leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Virat210/Leethub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virat210/Leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Virat210/Leethub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Virat210/Leethub/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
