@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Virat210/Leethub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/Virat210/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Virat210/Leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Virat210/Leethub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Virat210/Leethub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Virat210/Leethub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Virat210/Leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Virat210/Leethub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Virat210/Leethub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
