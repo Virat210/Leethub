@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/Virat210/Leethub/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/Virat210/Leethub/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Virat210/Leethub/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Virat210/Leethub/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0678-valid-parenthesis-string](https://github.com/Virat210/Leethub/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/Virat210/Leethub/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Virat210/Leethub/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virat210/Leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Virat210/Leethub/tree/master/1021-remove-outermost-parentheses) |
