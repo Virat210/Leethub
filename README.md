@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Virat210/Leethub/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Virat210/Leethub/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/Virat210/Leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Virat210/Leethub/tree/master/0896-monotonic-array) |
 | [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Virat210/Leethub/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0678-valid-parenthesis-string](https://github.com/Virat210/Leethub/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Virat210/Leethub/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/Virat210/Leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/Virat210/Leethub/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virat210/Leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Virat210/Leethub/tree/master/1021-remove-outermost-parentheses) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Virat210/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Virat210/Leethub/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virat210/Leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Virat210/Leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
 ## Backtracking
 |  |
