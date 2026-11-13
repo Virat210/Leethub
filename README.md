@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Virat210/Leethub/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Virat210/Leethub/tree/master/0896-monotonic-array) |
 | [0986-interval-list-intersections](https://github.com/Virat210/Leethub/tree/master/0986-interval-list-intersections) |
+| [1207-unique-number-of-occurrences](https://github.com/Virat210/Leethub/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Virat210/Leethub/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Virat210/Leethub/tree/master/1267-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Virat210/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Virat210/Leethub/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Virat210/Leethub/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/Virat210/Leethub/tree/master/1096-brace-expansion-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Virat210/Leethub/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Virat210/Leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virat210/Leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virat210/Leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
