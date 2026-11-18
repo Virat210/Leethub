@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Virat210/Leethub/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Virat210/Leethub/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Virat210/Leethub/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/Virat210/Leethub/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virat210/Leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Virat210/Leethub/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Virat210/Leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Virat210/Leethub/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Virat210/Leethub/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
