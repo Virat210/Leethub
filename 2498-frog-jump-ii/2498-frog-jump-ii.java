@@ -1,15 +1,14 @@
 class Solution {
     public int maxJump(int[] stones) {
-        if (stones.length==2) {
-            return stones[1] - stones[0];
-        }
-        
-        int maxJump=0;
-        
+       
+        int result=stones[1]-stones[0];
         for (int i=2; i<stones.length; i++) {
-            maxJump=Math.max(maxJump, stones[i] - stones[i - 2]);
+            result=Math.max(result,stones[i]-stones[i - 2]);
         }
-        
-        return maxJump;
+        for (int i=3; i<stones.length; i+=2) {
+            result=Math.max(result, stones[i]-stones[i - 2]);
+        }
+
+        return result;
     }
 }
