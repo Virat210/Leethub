@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Virat210/Leethub/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Virat210/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Virat210/Leethub/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Virat210/Leethub/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Virat210/Leethub/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virat210/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Virat210/Leethub/tree/master/0134-gas-station) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Virat210/Leethub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Virat210/Leethub/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Virat210/Leethub/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Virat210/Leethub/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virat210/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Virat210/Leethub/tree/master/0198-house-robber) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Virat210/Leethub/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Virat210/Leethub/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Virat210/Leethub/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Virat210/Leethub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
