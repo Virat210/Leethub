@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Virat210/Leethub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Virat210/Leethub/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Virat210/Leethub/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1952-three-divisors](https://github.com/Virat210/Leethub/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/Virat210/Leethub/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Virat210/Leethub/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virat210/Leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Virat210/Leethub/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Virat210/Leethub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Virat210/Leethub/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
@@ -408,5 +410,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Virat210/Leethub/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Virat210/Leethub/tree/master/2413-smallest-even-multiple) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Virat210/Leethub/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Virat210/Leethub/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
